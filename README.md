@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | AI master's student | Full-Stack Developer</h3>
 
 <p align="center">
-  🌍 Based in <strong>Casablanca, Morocco</strong> | ✉️ <strong>salima.elhou@gmail.com</strong> | 
+  🌍 Based in <strong>Casablanca, Morocco</strong> | ✉️ <strong>salimaelhou@gmail.com</strong> | 
   <a href="https://github.com/salimaElhou" target="_blank"><strong>GitHub</strong></a> |
   <a href="https://www.linkedin.com/in/salima-el-hou-883294235/" target="_blank"><strong>LinkedIn</strong></a>
 </p>
